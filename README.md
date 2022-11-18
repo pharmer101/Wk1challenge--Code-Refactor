@@ -13,7 +13,14 @@ Mod 1 challenge - to refactor a website
 * fix any broken links
 * Add a concise title
 * Add comments to the CSS files 
-*
+
+## The website appearance shouldnt alter due to these changes
+
+Link to completed website with changes
+
+
+
+
 
 
 
