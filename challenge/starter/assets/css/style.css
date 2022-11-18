@@ -1,20 +1,22 @@
+
+/* This section adds a border and removes padding and margin for the whole page */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* This addes a backgrojnd colour to the page  */
 body {
     background-color: #d9dcd6;
 }
-
+/* This adds styling to the header section of the page, including a new font family  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* This makes sure the content of the header is displayed as an inline block with large text  */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +25,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* The css re the header section below add more styling nav section of the header */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +51,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* This section conrolls the size of the hero section and adds a large image */
 .hero {
     height: 800px;
     width: 100%;
@@ -74,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* This section add styling to the right hand section of the webpage */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* This section adds sytling for the icon items used in the right hand bar  */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/* This section add sytling to the bottom of the page */
 .footer {
     padding: 30px;
     clear: both;
