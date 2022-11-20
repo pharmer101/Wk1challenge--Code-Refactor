@@ -24,7 +24,7 @@ Mod 1 challenge - to refactor a website
 
 ! website image.GIF 
 
-https://github.com/pharmer101/Wk1challenge--Code-Refactor/image.GIF 
+! https://github.com/pharmer101/Wk1challenge--Code-Refactor/image.GIF 
 
 
 
