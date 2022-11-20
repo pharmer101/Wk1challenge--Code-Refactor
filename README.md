@@ -20,7 +20,7 @@ Mod 1 challenge - to refactor a website
 
 ### Picture of webiste:
 
-!website image.GIF 
+! website image.GIF 
 
 
 
