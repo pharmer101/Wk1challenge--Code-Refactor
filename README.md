@@ -16,7 +16,11 @@ Mod 1 challenge - to refactor a website
 
 ### The website appearance shouldnt alter due to these changes
 
-Link to completed website with changes
+### Link to completed website with changes - https://pharmer101.github.io/Wk1challenge--Code-Refactor/#online-reputation-management
+
+### Picture of webiste:
+
+website image.GIF 
 
 
 
