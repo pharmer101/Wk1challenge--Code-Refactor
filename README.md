@@ -28,5 +28,5 @@ Mod 1 challenge - to refactor a website
 
 
 
-![](image.gig)
+![](image.gif)
 
