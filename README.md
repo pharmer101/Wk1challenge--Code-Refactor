@@ -20,11 +20,11 @@ Mod 1 challenge - to refactor a website
 
 ### Picture of webiste:
 
-(https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
 
-! website image.GIF 
 
-! https://github.com/pharmer101/Wk1challenge--Code-Refactor/image.GIF 
+
+
+< img image.GIF >
 
 
 
