@@ -24,7 +24,7 @@ Mod 1 challenge - to refactor a website
 
 
 
-< img image.GIF >
+< img src="image.GIF" >
 
 
 
